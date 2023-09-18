@@ -1,2 +1,2 @@
 # Note-App
-a note taking app
+A Note Taking App
