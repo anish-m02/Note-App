@@ -1,0 +1,3 @@
+mark a note as read, striking through the note
+add a search on the list of notes
+add couml to show date and time of created/ edited note
